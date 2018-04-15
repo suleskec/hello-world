@@ -1,2 +1,2 @@
 # hello-world
-Its the hello world program.
+It's the hello world program.
